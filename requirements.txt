@@ -1,5 +1,6 @@
-echo streamlit > requirements.txt
-echo moviepy >> requirements.txt
-echo opencv-python >> requirements.txt
-echo scenedetect >> requirements.txt
-echo numpy >> requirements.txt
+streamlit==1.35.0
+moviepy==1.0.3
+imageio-ffmpeg==0.4.8
+opencv-python-headless==4.10.0.82
+scenedetect==0.6.1
+numpy==1.26.4
