@@ -1,0 +1,5 @@
+echo streamlit > requirements.txt
+echo moviepy >> requirements.txt
+echo opencv-python >> requirements.txt
+echo scenedetect >> requirements.txt
+echo numpy >> requirements.txt
