@@ -31,23 +31,10 @@ Templify AI is on a mission to simplify video editing and style replication:
 
 ---
 
-## 🔒 Confidentiality & Disclosure
-
-This repository is a **limited public-facing MVP**. Proprietary code, models, and design logic are excluded to protect IP.
-
-> 📄 **Full roadmap, access, and collaboration will be discussed post-NDA (Non-Disclosure Agreement).**
-
----
-
-## 🤝 Looking for Strategic Partners
-
-If you're a video editing platform or an investor interested in AI-powered editing, we’d love to explore how we can build this with your tools and effects — leading to 10x value creation for your users.
-
 ---
 
 ## 📧 Contact
 
-For access, demos, or collaboration:
 📩 Jatin sahu
 ✉️ jatinsahu718@gmail.com
 🌐 Coming soon: [Templify AI Website]
